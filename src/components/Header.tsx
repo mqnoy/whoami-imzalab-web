@@ -10,7 +10,7 @@ const Header: FC = () => {
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/">
           <h1 className="text-4xl font-semibold">
-            Rifky A <span className="text-accent">.</span>
+            Imza <span className="text-accent">.</span>
           </h1>
         </Link>
 
