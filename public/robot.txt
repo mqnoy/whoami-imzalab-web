@@ -1,14 +1,5 @@
-User-agent: Googlebot
-Disallow: /*.jpeg*
-
-User-agent: Googlebot
-Disallow: /*.png*
-
-User-agent: Googlebot
-Disallow: /*.jpg*
-
-User-agent: Googlebot
-Disallow: /*.svg*
+User-agent: Googlebot-Image
+Disallow: /
 
 User-agent: Googlebot
 Disallow: /*.pdf*
