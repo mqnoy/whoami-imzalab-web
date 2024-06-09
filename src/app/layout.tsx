@@ -14,7 +14,7 @@ const jetbransMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Whoami",
-  description: "Rifky azmi as a Software Engineer",
+  description: "Rifky Azmi as a Fullstack Engineer",
 };
 
 const RootLayout: FC<ChildrenProps> = ({ children }) => {
